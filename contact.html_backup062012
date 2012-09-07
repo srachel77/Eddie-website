@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Austin CDL Services</title>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii" />
+<link title="style.css" type="text/css" rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div id="container">
+<div id="main_menu"><a class="aactive" href="">Home</a> <a href="pricing.html">Pricing</a> <a href="./test-success.html">Test Success</a> <a href="contact.html">Contact</a> <a href="tx-cdl-locations.html">TX DPS Locations</a><a href="./feedback">Feedback</a></div>
+<div id="header"><br />
+<!--
+<h1>Austin CDL Services</h1>
+<p>Eddie: Your Logo and slogan goes here</p>--><a href=""><img height="100%" alt="" width="100%" src="cdlaustinlogo.jpg" /></a>&nbsp;</div>
+<div id="sidebar" style="width: 198px; height: 780px">
+<h2>
+<h2><font color="#333366" size="4"><br />
+</font>&nbsp;</h2>
+<h2><font color="#333366" size="4">Contact Us Now</font><strong><font color="#333366" size="3"></font></strong></h2>
+<h2><strong><font color="#333366" size="3">Email:</font></strong></h2>
+<h3>
+<p><a href="mailto:info@austincdlservices.com"><strong><font size="3">info@austincdlservices.com</font></strong></a><font size="4"><font color="#333366"></font></font></p>
+<p><font size="4"><font color="#333366">Phone:</font>&nbsp;&nbsp;&nbsp;<font color="#cc0000"> (512) 422-2342</font><br />
+<font color="#333399">Fax:</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#cc0000">(801) 729-5619</font></font></p></h3><a href=""><img height="113" alt="" width="146" src="pic1.jpg" /></a><br />
+<br /><a href=""><img height="95" alt="" width="146" src="pic2.jpg" /></a><font color="#003399">
+<h2><font color="#333366" size="2">Did you Know?</font></h2>
+<h3><font color="#000099"><font size="2"><font color="#333366">We Speak</font> </font><font size="2"><font color="#cc0000">English/Spanish<br />
+</font><br />
+</font></font><font color="#333366" size="2">We Work Around your Schedule</font></h3></font></h2></div>
+<div class="article">
+<h2><font color="#333366" size="4">Contact Us Now</font></h2>
+<h2>
+<p><strong><font size="4">Email:</font></strong></p>
+<p><a href="mailto:info@austincdlservices.com"><strong><font size="4">info@<font size="+0">austincdlservices.<font color="#333366">com</font></font></font></strong></a></p>
+<p>&nbsp;</p><font size="4"><font color="#003399"><font color="#333366">Phone:</font>&nbsp; <font color="#cc0000">(512)&nbsp; 422-2342</font><br />
+<font color="#333366">Fax:</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#ff0000"> </font><font color="#cc0000">(801)&nbsp; 729-5619</font></font></h2>
+<h2><font color="#333366" size="4">This is a self proprietor business and we meet on appointments only!&nbsp; Feel free to call us.&nbsp; We work on the weekends too to meet your business needs.</font></h2></div>
+<p class="article"><strong><font face="Arial Narrow" color="#003399" size="5"></font></strong>&nbsp;</p>
+<p class="article"><br />
+<br /><br />
+<br /><br />
+<br /><br />
+<br /><br />
+<br /><br />
+<br /><br />
+<br /><br />
+<br />&nbsp;</p>
+<div id="main_menu"><a class="aactive" href="">Home</a> <a href="pricing.html">Pricing</a> <a href="test-success.html">Test Success</a> <a href="contact.html">Contact</a> <a href="tx-cdl-locations.html">TX DPS Locations</a> </div><!--
+<div class="comment">&copy; Copyright Your Name 2008 </div></div>--></div>
+</body>
+</html>
